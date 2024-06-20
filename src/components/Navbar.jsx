@@ -1,4 +1,4 @@
-import { Box, Flex, Link as ChakraLink, Spacer, Heading, Input, InputGroup, InputRightElement } from "@chakra-ui/react";
+import { Box, Flex, Link as ChakraLink, Spacer, Heading, Input, InputGroup, InputRightElement, Button } from "@chakra-ui/react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
